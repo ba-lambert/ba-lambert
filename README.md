@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **PERN/MERN sack**
+- 💬 Ask me about **PERN/MERN sack && flutter**
 
 - 📫 How to reach me **lambertbayiringire@gmail.com**
 
