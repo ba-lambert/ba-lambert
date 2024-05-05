@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lambert BAYIRINGIRE</h1>
-<h3 align="center">A passionate devOps junior software engineer from Rwanda</h3>
+<h3 align="center">A passionate full stack junior software engineer from Rwanda</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
