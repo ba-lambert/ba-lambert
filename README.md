@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about ** Jaavascript ,Typescript and there flameworks (nodejs,nest,express,React,MERN..) && flutter on mobile**
+- 💬 Ask me about ** Jaavascript ,Typescript and there flameworks (nodejs,nest,express,React,MERN,PERN stack, ..) && flutter on mobile**
 
 - 📫 How to reach me ** lambertbayiringire@gmail.com **
 
