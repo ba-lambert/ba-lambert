@@ -5,7 +5,7 @@
 
 - 💬 Ask me about ** Jaavascript ,Typescript and there flameworks (nodejs,nest,express,React,..) && flutter on mobile**
 
-- 📫 How to reach me **lambertbayiringire@gmail.com**
+- 📫 How to reach me ** lambertbayiringire@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
