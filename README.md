@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Javascript ,Typescript and there flameworks (nodejs,nest,express,React,MERN,PERN stack, ..) && flutter on mobile plus Java spring web for Backend**
 
-- 📫 How to reach me ** lambertbayiringire@gmail.com **
+- 📫 How to reach me **lambertbayiringire@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
