@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Lam
+### Hi there 👋, my name is Lambert 
 #### I am a passionate junior full stack junior software engineer from Rwanda
 
 - 🌱 I’m currently learning **Flutter**
