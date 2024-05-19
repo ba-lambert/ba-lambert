@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Lambert 
 #### I am a passionate junior full stack junior software engineer from kigali, Rwanda
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 - 💬 Ask me about **Javascript ,Typescript and there flameworks (nodejs,nest,express,React,MERN,PERN stack, ..) && flutter on mobile plus Java spring boot web for Backend**
 
