@@ -18,25 +18,15 @@
 ### 🛠️ Technical Arsenal
 
 **Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat&logo=quarkus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat&logo=quarkus&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 **Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 **DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 
 ---
 
@@ -53,49 +43,21 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  
-![Lambert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ba-lambert&show_icons=true&hide_title=true&count_private=true&theme=vision-friendly-dark)  
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ba-lambert&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ba-lambert&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ba-lambert&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ba-lambert&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
 ---
 
 ### 🖥️ Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ba-lambert&layout=compact&theme=vision-friendly-dark&hide=html,css,scss)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 💡 Recent Projects
-
-**1. E-Commerce Backend**  
-Spring Boot & Quarkus microservices with JWT authentication  
-- Built using **Spring Boot** & **Quarkus** for scalability  
-- JWT authentication for secure user management  
-- Integrated with **PostgreSQL** for data storage  
-
-**2. Task Management App**  
-MERN stack with Redux Toolkit  
-- Developed with **MongoDB**, **Express**, **React**, and **Node.js**  
-- State management using **Redux Toolkit**  
-- Real-time task updates using **Socket.io**
-
-**3. Mobile Fitness Tracker**  
-Flutter with Firebase integration  
-- **Cross-platform mobile app** for tracking fitness activities  
-- Integrated with **Firebase** for real-time data sync and authentication  
-- User-friendly UI with **Flutter** for a smooth experience
-
-**4. DevOps Pipeline**  
-Dockerized Node.js app with CI/CD implementation  
-- Containerized app using **Docker** for easy deployment  
-- Continuous integration/deployment pipeline set up using **GitHub Actions**
-
-**5. FastAPI Service**  
-Lightweight Python API for data processing  
-- Developed RESTful APIs with **FastAPI**  
-- Optimized for performance and rapid development  
-- Data processing and interaction with **PostgreSQL**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ba-lambert&layout=compact)
 
 ---
 
@@ -113,14 +75,6 @@ Lightweight Python API for data processing
 - 🧑‍💻 **GitHub**: [Check out my repositories](https://github.com/ba-lambert)
 
 ---
-
-### 📊 GitHub Streak
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ba-lambert&theme=dark&border_radius=4.5)
-
-</div>
 
 ---
 
